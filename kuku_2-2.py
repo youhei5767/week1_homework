@@ -15,15 +15,16 @@ $ python kuku_2.py
 11 22 33 44 55 66 77 88 99 110 121 132 
 12 24 36 48 60 72 84 96 108 120 132 144 """
 
-""" for a in range(1, 13):
+for a in range(1, 13):
     for b in range(1, 13):
         print(a * b, end=" ")
-    print(end=" ""\n") """
+    print(end=" ""\n")
 
 
-name="youehi"
+""" name="youhi"
 print(f"こんにちは。12+{name}")
 number=2+3
 print(f"{number}")
 price=100
 print(f"りんごの価格は{price}です")
+ """

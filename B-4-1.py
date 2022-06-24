@@ -34,13 +34,13 @@ weather_information = [
     {"prefecture": "福岡県", "station": "太宰府", "temperature": 15.0},
 ]
 
-""" sum = 0
+sum = 0
 for r in range(0, len(weather_information)):
     temperature = weather_information[r]["temperature"]
     sum = sum + temperature
 
 a_tem = sum / len(weather_information)
-print(a_tem) """
+print(a_tem)
 
 # Q2. 大阪府のすべての駅名をカンマ区切りで出力してください( '梅田,大阪,堺' となればOK)
 
